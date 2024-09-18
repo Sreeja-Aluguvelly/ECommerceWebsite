@@ -1,0 +1,41 @@
+﻿@using ECommerceWebsite.Models
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model List<Product>
+    <div class="card shadow border-0 my-4">
+<div class="card-header bg-dark ml-0 py-6">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h2 class="text-white">Product List</h2>
+        </div>
+    </div>
+</div>
+<div class="card body p-4">
+<div class="row pb-3">
+    <div class="col-6">
+    </div>
+    <div class="col-6 text-end">
+        <a asp-controller="product" asp-action="Upsert" class="btn btn-dark">
+            <i class="bi bi-plus-square-fill"></i> CREATE NEW PRODUCT
+        </a>
+    </div>
+</div>
+
+<table id="tableData" class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Brand</th>
+        <th>Price</th>
+        <th>Category</th>
+        <th></th>
+    </tr>
+    </thead>
+</table>
+</div>
+</div>
+
+@section Scripts{
+    <script src="~/js/product.js"></script>
+}
+
+

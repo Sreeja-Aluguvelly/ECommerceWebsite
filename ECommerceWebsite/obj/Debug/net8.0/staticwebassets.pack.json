@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/obj/Debug/net8.0/scopedcss/projectbundle/ECommerceWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets/ECommerceWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/1da14c8e-abca-49f2-9973-34f557869a21.jpg",
+      "PackagePath": "staticwebassets/images/product/1da14c8e-abca-49f2-9973-34f557869a21.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/3b02181e-d2e3-4d32-a045-5db9a6b129b6.jpg",
+      "PackagePath": "staticwebassets/images/product/3b02181e-d2e3-4d32-a045-5db9a6b129b6.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/5878862c-2903-447c-95ac-615c408e4af0.jpg",
+      "PackagePath": "staticwebassets/images/product/5878862c-2903-447c-95ac-615c408e4af0.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/5d9791e2-bdaf-4265-889b-e03fffef9633.jpg",
+      "PackagePath": "staticwebassets/images/product/5d9791e2-bdaf-4265-889b-e03fffef9633.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/a7174449-1f1f-4cac-b98a-821e94ffe599.jpg",
+      "PackagePath": "staticwebassets/images/product/a7174449-1f1f-4cac-b98a-821e94ffe599.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/images/product/d04ed461-de74-4619-966d-2cb9f4b9223d.jpg",
+      "PackagePath": "staticwebassets/images/product/d04ed461-de74-4619-966d-2cb9f4b9223d.jpg"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/js/company.js",
+      "PackagePath": "staticwebassets/js/company.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ECommerceWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ECommerceWebsite.props",
+      "PackagePath": "build\\ECommerceWebsite.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ECommerceWebsite.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceWebsite.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ECommerceWebsite.props",
+      "PackagePath": "buildTransitive\\ECommerceWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
