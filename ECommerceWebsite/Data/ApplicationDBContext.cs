@@ -19,10 +19,17 @@ public class ApplicationDBContext : IdentityDbContext // Dbcontext is a builtin 
     public DbSet<Product> Product{ get; set; }
     public DbSet<Company> Companies{get; set;}
     public DbSet<ApplicationUser> ApplicationUsers{get; set;}
+     public DbSet<Cart> carts{get; set;}
+     public DbSet<OrderDetail> OrderDetails{get; set;}
+     public DbSet<OrderHeader> OrderHeaders{get; set;}
+
     
     protected override void OnModelCreating(ModelBuilder modelBuilder) // To Seed data
     {
         base.OnModelCreating(modelBuilder); // add it when we have identitydbcontext
+        modelBuilder.Entity<Cart>()
+        .Property(c => c.Id)
+        .ValueGeneratedOnAdd(); 
         
         modelBuilder.Entity<Category>().HasData(
             new Category { Id= 1, Name = "Fiction", DisplayOrder = 1 },
@@ -30,6 +37,12 @@ public class ApplicationDBContext : IdentityDbContext // Dbcontext is a builtin 
             new Category { Id= 3, Name = "Music", DisplayOrder = 3 }
 
         );
+
+        modelBuilder.Entity<Cart>().HasData(
+            new Cart { ProductId= 1, Count = 3, ApplicationUserId = "940aad94-45ca-465e-9449-38dc0250ba56", Id=1 }
+
+        );
+
 
         modelBuilder.Entity<Company>().HasData(
             new Company { Id = 1, Name = "Crafted Creations", StreetAddress="112 Tech St", City="Kavrav City",

@@ -263,3 +263,5 @@
 /Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
 /Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
 /Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/obj/Debug/net8.0/ECommerceWebsite.MvcApplicationPartsAssemblyInfo.cs
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/obj/Debug/net8.0/ECommerceWebsite.sourcelink.json
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerceWebsite/bin/Debug/net8.0/Stripe.net.dll
