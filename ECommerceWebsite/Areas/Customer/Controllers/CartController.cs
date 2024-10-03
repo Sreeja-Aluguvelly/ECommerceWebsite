@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Authorization;
 using ECommerceWebsite.Models;
 using ECommerce.Utility;
 using Stripe.Checkout;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace ECommerceWebsite.Areas.Customer.Controllers;
 
@@ -15,10 +17,13 @@ namespace ECommerceWebsite.Areas.Customer.Controllers;
 public class CartController: Controller
 {
      private readonly IUnitofWork _unitOfWork;
+     private readonly IEmailSender _emailSender;
+    
      [BindProperty] //automatically bind cartvm
      public CartVM CartVM { get; set; }
-     public CartController(IUnitofWork unitOfWork) {
+     public CartController(IUnitofWork unitOfWork, IEmailSender emailSender) {
             _unitOfWork = unitOfWork;
+            _emailSender = emailSender;
      }
 
     public IActionResult Index()
@@ -46,7 +51,7 @@ public class CartController: Controller
         }
     
     public IActionResult Minus(int cartId) {
-            var cartFromDb = _unitOfWork.cart.Get(u => u.Id == cartId);
+            var cartFromDb = _unitOfWork.cart.Get(u => u.Id == cartId,tracked:true);
             if (cartFromDb.Count <= 1) {
                 //remove that from cart
                 HttpContext.Session.SetInt32(SD.SessionCart,
@@ -63,7 +68,7 @@ public class CartController: Controller
         }
 
         public IActionResult Remove(int cartId) {
-            var cartFromDb = _unitOfWork.cart.Get(u => u.Id == cartId);
+            var cartFromDb = _unitOfWork.cart.Get(u => u.Id == cartId,tracked:true);
             HttpContext.Session.SetInt32(SD.SessionCart,
                 _unitOfWork.cart.GetAll(u => u.ApplicationUserId == cartFromDb.ApplicationUserId).Count()-1);
             _unitOfWork.cart.Remove(cartFromDb);
@@ -192,7 +197,8 @@ public class CartController: Controller
                 HttpContext.Session.Clear();
 
 			}
-
+            _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - ECommerce",
+            $"<p>New Order Created - {orderHeader.Id}</p>");
             List<Cart> carts = _unitOfWork.cart.GetAll(u => u.ApplicationUserId == orderHeader.ApplicationUserId).ToList();
 
             _unitOfWork.cart.RemoveRange(carts);
