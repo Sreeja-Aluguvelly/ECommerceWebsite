@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using ECommerceWebsite.Utility;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
+using ECommerceWebsite.DbInitializer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,12 +20,17 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.LogoutPath = $"/Identity/Account/Logout";
     options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
 });
+builder.Services.AddAuthentication().AddFacebook(option => {
+    option.AppId = "1059340159527132";
+    option.AppSecret="3ad542ed9b55328ae6b7bcd67ba1d88e";
+});
 builder.Services.AddDistributedMemoryCache(); // adding sessions to services
 builder.Services.AddSession(options => {
     options.IdleTimeout = TimeSpan.FromMinutes(100);
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 builder.Services.AddRazorPages(); // Razor pages are added for login and register, so make the routing available for razor we need to add razor service.
 builder.Services.AddScoped<IUnitofWork,UnitofWork>();
 builder.Services.AddScoped<IEmailSender,EmailSender>();
@@ -47,9 +53,18 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession();
+SeedDatabase();
 app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+void SeedDatabase() {
+    using (var scope = app.Services.CreateScope()) {
+        var dbInitializer = scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+        dbInitializer.Initialize();
+    }
+}

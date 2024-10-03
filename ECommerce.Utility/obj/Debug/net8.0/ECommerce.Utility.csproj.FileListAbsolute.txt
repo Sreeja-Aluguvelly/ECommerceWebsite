@@ -1,0 +1,12 @@
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/bin/Debug/net8.0/ECommerce.Utility.deps.json
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/bin/Debug/net8.0/ECommerce.Utility.dll
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/bin/Debug/net8.0/ECommerce.Utility.pdb
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.AssemblyInfoInputs.cache
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.AssemblyInfo.cs
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.csproj.CoreCompileInputs.cache
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.dll
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/refint/ECommerce.Utility.dll
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.pdb
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ref/ECommerce.Utility.dll
+/Users/sreejaaluguvelly/Desktop/ASP.NET/ECommerceWebsite/ECommerce.Utility/obj/Debug/net8.0/ECommerce.Utility.sourcelink.json
